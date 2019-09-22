@@ -1,0 +1,103 @@
+.title{
+  text-align: center;
+  margin: 20px;
+  font-style: oblique;
+  color: green;
+}
+
+.routeButton{
+  text-align: left;
+  margin: 20px;
+}
+
+#index{
+  margin-left: 40px;
+  width: 120px;
+  height: 30px
+}
+.IndexRouteButton{
+  margin: 15% 34% auto 34%;
+}
+
+.subtitle{
+  text-align: center;
+  margin: 20px;
+  color: green;
+}
+
+.form{
+  text-align: center;
+  margin: 20px;
+}
+
+.table{
+  font-size: 20px;
+  padding: 10px;
+  margin: 20px;
+}
+
+#one{
+  padding-left: 10%;
+}
+
+table, th, tr{
+  border: 2px solid black;
+  border-spacing: 0px;
+  margin: 0px auto;
+}
+
+th{
+  padding: 10px;
+  width: 250px;
+  background-color: green;
+  color: white;
+}
+
+table tr:nth-child(even) td{
+  background-color: #cfcfcf;
+}
+
+a{
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+}
+
+button{
+  width: 100px;
+  margin-left: 10px;
+}
+
+label{
+  width : 200px;
+  display : inline-block;
+}
+
+fieldset{
+  margin: 10% 30% auto 30%;
+  width: 40%;
+}
+
+#add{
+  margin-top: 10px;
+  padding: 2%;
+  width: 95%;
+  font-size: 15px;
+}
+#message{
+  text-align: center;
+}
+input{
+  width: 50%;
+  height: 5%;
+  font-size: 15px;
+  padding: 2px 5px;
+}
+
+#searchBar{
+  width: 30%;
+}
+
+#searchButton{
+  width: 10%;
+}
